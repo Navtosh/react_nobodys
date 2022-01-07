@@ -2,6 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 import $ from 'jquery'; 
 import {BootstrapCarousel} from './components/BootstrapCarousel ';
+import "../node_modules/jquery/dist/jquery.min.js";
+import "../node_modules/bootstrap/dist/js/bootstrap.min.js";
+
 
 import { Header } from "./components/Header";
 import { Banner } from "./components/Banner";
